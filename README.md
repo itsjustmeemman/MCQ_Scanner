@@ -59,7 +59,7 @@ I used the xlsxwriter module in python to encode the texts to excel. <br  />
 # Limitations
 As you use this script you may find limitations in the following: <br  />
  <br  />
-**1. Image Proccesing** <br  />
+**1.Incorrect Image Proccesing** <br  />
 According to what I've experience this is due to low quality images, wrong format ( you can observe this at the output ROI images) or incorrect parameters in the code for the image. I've coded this with a specific format in mind and will further improve this so that the code is not "static" and maybe apply AI to differentiate the questions from the answers. 
  <br  />
  <br  />
