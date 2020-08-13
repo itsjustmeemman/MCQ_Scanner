@@ -72,6 +72,7 @@ See example image below <br  />
 ![Sample Question](/Sample%20Images/Limitations1.JPG) <br />
  <br  />
  <br  />
+ as you can see letter **a** occupies two lines of the image this will cause issues in the encoding
 
 
 
